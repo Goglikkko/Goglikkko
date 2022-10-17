@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goglikkko
-- 👀 I’m interested in Data 
+- 👀 I’m interested in Data Analytics / Science 
 - 🌱 I’m currently learning Data Analytics / Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gogliko888@gmail.com
