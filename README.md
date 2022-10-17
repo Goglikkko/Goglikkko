@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goglikkko
+- 👋 Hi, I’m 
 - 👀 I’m interested in Data Analytics / Science 
 - 🌱 I’m currently learning Data Analytics / Science 
 - 💞️ I’m looking to collaborate on ...
